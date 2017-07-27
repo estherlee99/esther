@@ -1,0 +1,6 @@
+var color = ("Pink","Purple","Blue")
+var dog = ("Pomeranian", "Husky","Shiba Inu")
+var choice = ("1st choice","2nd choice","3rd choice")
+console.log("My " + choice(0) + " is" + color(0) + " and " + dog(0) + ".") 
+console.log("My " + choice(1) + " is" + color(1) + " and " + dog(1) + ".") 
+console.log("My " + choice(2) + " is" + color(2) + " and " + dog(2). + ".") 
